@@ -33,7 +33,7 @@ export class ProjectsComponent {
       title: 'API para o projeto caroneiros',
       width: '100px',
       height: '51px',
-      description: 'O projeto que eu visava desenvolver permitiu que motoristas divulgassem suas vagas, definissem horários de saída, valores e outros detalhes de forma organizada e acessível. Por outro lado, os passageiros puderam encontrar caronas disponíveis sem precisar vasculhar entre centenas de mensagens, tornando o processo muito mais eficiente e conveniente..',
+      description: 'O projeto desenvolvido permitiu que motoristas divulgassem suas vagas, definissem horários de saída, valores e outros detalhes de forma organizada e acessível. Por outro lado, os passageiros puderam encontrar caronas disponíveis sem precisar vasculhar entre centenas de mensagens, tornando o processo muito mais eficiente e conveniente.',
       links: [
         {
           name: 'API Caroneiros',
@@ -47,7 +47,7 @@ export class ProjectsComponent {
       title: 'Website para um projeto social',
       width: '100px',
       height: '51px',
-      description: 'O projeto que viso desenvolver permitirá que motoristas divulguem suas vagas, definam horários de saída, valores e outros detalhes de forma organizada e acessível. Por outro lado, os passageiros poderão encontrar caronas disponíveis sem precisar vasculhar entre centenas de mensagens, tornando o processo muito mais eficiente e conveniente.',
+      description: 'Este projeto tem como objetivo desenvolver um website para a ONG Bem te quero, uma organização comprometida com causas sociais que atua em Porto Nacional (TO). O site busca aumentar a visibilidade da ONG e oferecer um espaço para informações essenciais sobre suas atividades, programas e maneiras de contribuir por meio de doações e trabalho voluntário.',
       links: [
         {
           name: 'Website BemTeQuero',
